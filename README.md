@@ -1,3 +1,4 @@
 # hello-world
-hello everyone
-github
+hiii!! there
+welcome to my first github code
+
